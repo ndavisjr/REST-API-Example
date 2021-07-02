@@ -22,3 +22,6 @@ Process:
 6) Create DTO's and use Automapper to link DTO to Model
     - CommandsProfile
 7) Use JSON for patching
+
+
+As an example project, .env variables are not set up.
